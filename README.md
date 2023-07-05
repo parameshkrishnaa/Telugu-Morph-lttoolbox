@@ -1,10 +1,10 @@
-#Telugu Morphological analyzer 
+# Telugu Morphological analyzer 
 
 ## Requirement
 lttoolbox(apertium)
 Input data should be in WX format
 
-###How to run:
+### How to run:
 ````
 lt-proc -c telugu_morph_analyzer_v1.0.bin 
 ````
