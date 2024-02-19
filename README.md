@@ -26,3 +26,9 @@ lt-proc -c telugu_morph_analyzer_v2.0.bin
 ````
 lt-proc -c telugu_morph_analyzer_v2.0.bin < input.txt
 ````
+
+### To update changes from repo
+
+````
+git pull origin main
+````
